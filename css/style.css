@@ -1,5 +1,5 @@
 body{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     background-image: url("../images/concrete.png");
 }
 body a{
@@ -29,7 +29,7 @@ body a{
     font-size: 32px;
     color: #000000;
     margin: 0;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     text-transform: uppercase;
 	display: inline-block;
 }
@@ -52,8 +52,8 @@ body a{
 	-webkit-appearance: none;
 	color: rgba(0, 0, 0, 0.74);
 	font-size: 0.875em;
-	font-family: 'Raleway', sans-serif;
-    font-weight: 600;
+	font-family: 'Exo 2', sans-serif;
+    font-weight: 300;
 	position: relative;
 }
 .search-bar input[type="submit"] {
@@ -126,7 +126,7 @@ item_add:hover {
 }
 a.simpleCart_empty {
     color: rgba(255, 255, 255, 0.6);
-    font-family: 'Raleway', sans-serif;;
+    font-family: 'Exo 2', sans-serif;;
     font-weight: 600;
     font-size: 11px;
 
@@ -203,7 +203,7 @@ span.simpleCart_total {
 	position: relative;
 	width:75px;
 	cursor: pointer;
-	font-weight: 200;
+	font-weight: 300;
 	background: none;
 	padding: 0;
 	color: #fff;
@@ -592,7 +592,7 @@ figure.effect-bubba p {
 	transform: translate3d(0,20px,0);
 	color:#fff;
 	font-size: 1em;
-	font-family: 'Raleway';
+	font-family: 'Exo 2';
 }
 figure.effect-bubba:hover figcaption::before,
 figure.effect-bubba:hover figcaption::after {
@@ -1366,7 +1366,7 @@ a.mask {
 	padding: 15px 10px;
 	outline: none;
 	border: 1px solid #000;
-	font-family: 'Raleway';
+	font-family: 'Exo 2';
     font-weight: 400;
 }
 .contact-right textarea {
@@ -1379,7 +1379,7 @@ a.mask {
 	outline: none;
 	border: 1px solid #000;
 	margin-top: 1.4%;
-	font-family: 'Raleway';
+	font-family: 'Exo 2';
     font-weight: 400;
 }
 .submit-btn input[type=submit] {
@@ -1390,7 +1390,7 @@ a.mask {
 	margin: 20px 0 0 0px;
 	border: 1px solid #000;
 	background: none;
-	font-family: 'Raleway';
+	font-family: 'Exo 2';
     font-weight: 400;
 	outline: none;
 }
@@ -1407,7 +1407,7 @@ a.mask {
 .address h5 {
     color: #1abc9c;
     font-size: 1.5em;
-    font-weight: 700;
+    font-weight: 600;
     margin: 0;
 }
 .contact-right input[type="text"]:nth-child(2) {
@@ -1465,7 +1465,7 @@ a.mask {
     padding: 8px 10px;
     outline: none;
     border: 1px solid #000;
-    font-family: 'Raleway';
+    font-family: 'Exo 2';
     font-weight: 400;
     font-size: 14px;
 	margin-bottom:20px;
@@ -1480,7 +1480,7 @@ a.mask {
     font-size: 14px;
     color: #666;
     font-weight: 500;
-    font-family: 'Raleway';
+    font-family: 'Exo 2';
     font-weight: 400;
 	margin-right: 20px;
 }
@@ -1497,7 +1497,7 @@ a.mask {
     text-transform: uppercase;
     border: none;
     outline: none;
-	font-family: 'Raleway';
+	font-family: 'Exo 2';
     font-weight: 400;
 }
 .address input[type="submit"]:hover {
@@ -3121,7 +3121,7 @@ ul.tag-men {
     margin: 5px 0 15px -15px;
     font-size: 20px;
     text-transform: uppercase;
-	font-family: 'Raleway', serif;
+	font-family: 'Exo 2', sans-serif;
     font-weight: 600;
 }
 
@@ -3129,7 +3129,7 @@ ul.tag-men {
     float: right;
     margin: 5px 0 15px 0px;
     font-size: 18px;
-	font-family: 'Raleway', serif;
+	font-family: 'Exo 2', sans-serif;
     font-weight: 600;
 }
 
@@ -3137,8 +3137,8 @@ ul.tag-men {
     margin-left: -15px;
     font-size: 16px;
     color: #999;
-	font-family: 'Raleway', serif;
-    font-weight: 200;
+	font-family: 'Exo 2', sans-serif;
+    font-weight: 300;
 }
 
 .productboxopis {
@@ -3190,7 +3190,7 @@ ul.tag-men {
       font: normal normal normal normal 13px / 22px;
       margin: 0px 0px 7px;
       outline: rgb(51, 51, 51) none 0px;
-     font-family: 'Raleway', serif;
+     font-family: 'Exo 2', sans-serif;
     font-weight: 400;
 }
 
@@ -3203,7 +3203,7 @@ ul.tag-men {
   perspective-origin: 317.5px 30px;
   transform-origin: 317.5px 30px;
   border: 0px none rgb(68, 68, 68);
-  font: normal normal normal normal 13px / 18.5714px 'Raleway', sans-serif;
+  font: normal normal normal normal 13px / 18.5714px 'Exo 2', sans-serif;
   outline: rgb(68, 68, 68) none 0px;
 
 }
@@ -3222,7 +3222,7 @@ ul.tag-men {
   font: normal normal normal normal 13px / 22px;
   margin: 0px 0px 7px;
   outline: rgb(51, 51, 51) none 0px;
-    font-family: 'Raleway', serif;
+    font-family: 'Exo 2', sans-serif;
     font-weight: 400;
 }
 
@@ -3319,8 +3319,8 @@ ul.tag-men {
 
 
 .dodajukosar {
-font-family: 'Raleway', sans-serif;
-    font-weight: 200;
+font-family: 'Exo 2', sans-serif;
+    font-weight: 300;
 }
 
 .close {
@@ -3407,10 +3407,10 @@ font-family: 'Raleway', sans-serif;
 .cart-items ul { display: block; list-style: none; }
 .cart-items ul li { display: block; margin-bottom: 8px; padding-bottom: 10px; cursor: pointer; border-bottom: 1px dotted #888; }
 
-.cart-items ul li .item-price, .cart-items ul li .quantity { display: block; margin-bottom: 2px; font-size: 1.1em; }
+.cart-items ul li .item-price, .cart-items ul li .quantity { display: block; margin-bottom: 2px; font-size: 1em; }
 .productimg { display: block; float: left; margin-right: 8px; }
 
-.cart-tab .cart { padding: 1.5em; margin: 0; }
+.cart-tab .cart {  margin: 10px; }
 .cart-tab .cart .checkout {
   font-size: 1.2em;
   padding: 4px 11px;
