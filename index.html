@@ -38,20 +38,35 @@
 
                     <a href="#" title="View your shopping cart" class="cart-link">
                         <i><img src="images/cart-2.png"></i>
-                        <span class="amount">$22.00</span>
+                        <span class="amount">1299.97 kn</span>
                         <!--NOTE: ukupna cijena košarice-->
-                        <span class="contents">2 items</span>
+                        <span class="contents">stavki: 4</span>
                         <!--NOTE: broj artikala u košarici-->
                     </a>
                     <div class="cart">
-                        <h2>Košarica</h2>
                         <div class="cart-items">
                             <ul>
                                 <li class="clearfix">
                                     <img src="images/slika1trans50.png" class="productimg">
-                                    <h4>Dark Hoodie</h4>
-                                    <span class="item-price">$11.00</span>
-                                    <span class="quantity">Quantity: 1</span>
+                                    <!--TODO: naziv proizvoda u košarici-->
+                                    <div class="item-title">Srebrna ogrlica </div>
+                                    <!--TODO: cijena proizvoda u košarici-->
+                                    <span class="item-price">399.99 kn</span>
+                                    <!--TODO: količina proizvoda u košarici-->
+                                    <span class="quantity">Količina: 1</span>
+                                    <a href="#0" class="quantity">Remove</a>
+
+                                </li>
+                                <li class="clearfix">
+                                    <img src="images/slika1trans50.png" class="productimg">
+                                    <!--TODO: naziv proizvoda u košarici-->
+                                    <div class="item-title">Prsten srebrni </div>
+                                    <!--TODO: cijena proizvoda u košarici-->
+                                    <span class="item-price">299.99 kn</span>
+                                    <!--TODO: količina proizvoda u košarici-->
+                                    <span class="quantity">Količina: 3</span>
+                                    <a href="#0" class="quantity">Remove</a>
+
                                 </li>
 
                             </ul>
@@ -497,17 +512,17 @@
                 content: 'Artikl dodan u košaricu',
                 autoClose: 1500,
                 attributes: {
-            x: 'right',
-            y: 'top'
-        },
+                    x: 'right',
+                    y: 'top'
+                },
                 position: { // The position attribute defines the distance to the window edges
-            x: 0,
-            y: 60
-        }
+                    x: 0,
+                    y: 60
+                }
             });
         }
     </script>
-     <!--End notice box on adding item to cart-->
+    <!--End notice box on adding item to cart-->
 
 
     <script type="application/x-javascript">
