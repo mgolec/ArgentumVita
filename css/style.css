@@ -3075,8 +3075,8 @@ ul.tag-men {
     margin-left: auto;
     margin-right: auto;
         display: block;
-        width: auto;
-        height: 362px;
+        width: 100%;
+        height: auto;
         margin: 0;
 
 }
@@ -3111,6 +3111,12 @@ ul.tag-men {
 }
 
 .productboxopis {
+    margin-bottom: 20px;
+    margin-left: -15px;
+}
+
+.productboxopis-site {
+    margin-top: 20px;
     margin-bottom: 20px;
     margin-left: -15px;
 }
@@ -3464,5 +3470,11 @@ font-family: 'Exo 2', sans-serif;
 }
 
 
+
+
+
+.naslov-site {
+    margin-top: 15px;
+}
 
 
