@@ -41,6 +41,15 @@ $(document).ready(function() {
 		$('.window').hide();
 	});
 
+	//if register button is clicked - login form
+	$('.closewnd .closedlg').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+
+		$('.closewnd').hide();
+        $('.fade').hide();
+	});
+
 	//if mask is clicked
 	$('#mask').click(function () {
 		$(this).hide();

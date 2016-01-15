@@ -47,7 +47,7 @@
 	clear: both;
 }
 .sky-form a {
-	color: #2da5da;
+	color: #1abc9c;
 }
 .sky-form .label {
 	display: block;
@@ -1706,4 +1706,12 @@
 .sky-form .checkbox.state-disabled:hover i,
 .sky-form .toggle.state-disabled:hover i {
 	border-color: #e5e5e5;
+}
+
+.skylabel {
+    display: block;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 200;
+    color: #000;
+    font-size: 15px;
 }
